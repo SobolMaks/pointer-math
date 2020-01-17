@@ -4,7 +4,7 @@ public class MyMath {
 
 
             final double Pi;
-            Pi = 3.1415926536;
+            Pi = 3.14;
             final double a = 10;
             final double b = 25;
             double Perimeter1 = 2 * Pi * a;
